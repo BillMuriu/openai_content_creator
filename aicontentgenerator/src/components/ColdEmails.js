@@ -5,7 +5,7 @@ class ColdEmails extends Component{
     render() {
         return (
             <div>
-                <h1>This is the Home Page</h1>
+                <h1>This is the ColdEmails page</h1>
             </div>
         )
     }
